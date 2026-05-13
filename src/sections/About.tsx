@@ -35,16 +35,14 @@ export default function About() {
             <h2 className="subtitle">who I am</h2>
             <main>
               <p className="leading-relaxed text-justify text-secondary">
-                i’m <span className="text-cyan-400">Harshan</span>, a final-year
-                computer science and engineering student from Tamil Nadu with a
-                strong interest in web development. i build responsive and
-                modern web applications using reactjs and nodejs. i enjoy
-                turning ideas into real, functional websites. most of my skills
-                are self-taught using free online resources, documentation, and
-                developer communities. i learn best by building projects and
-                solving real problems. outside of coding, i love listening to
-                music and continuously exploring new technologies in the web
-                development world.
+                hi, i’m <span className="text-cyan-400">Harshan</span>, a
+                computer science engineering graduate and aspiring software
+                developer. i have hands-on experience building web applications
+                using react, node.js, express, mongodb, javascript, and
+                typescript. i enjoy creating responsive user interfaces,
+                developing backend apis, and solving real-world problems through
+                technology. passionate about learning new technologies and
+                building scalable applications.
               </p>
             </main>
           </div>
@@ -87,7 +85,7 @@ export default function About() {
                   </a>
                 </p>
                 <p className="text-[13px] text-secondary">
-                  2022 - <span className="text-cyan-400">Present</span>
+                  2022 - <span className="text-cyan-400">2026</span>
                 </p>
               </div>
               <div className="mb-5">

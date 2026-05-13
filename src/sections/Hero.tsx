@@ -14,7 +14,7 @@ import ribbonImage from "../assets/images/ribbon.svg"
 export default function Hero() {
   const texts = [
     "Self-taught Developer.",
-    "Student & Learner & Creator.",
+    "Learner & Creator.",
     "I code better with music.",
   ]
 
